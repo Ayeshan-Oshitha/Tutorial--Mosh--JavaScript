@@ -92,12 +92,12 @@
 
 # Javascript Course Part Two Outline - Advanced Topics
 
-## Getting Started
+## 1. Getting Started
 
 - What is OOP
 - Four Pillars of OOP
 
-## Objects
+## 2. Objects
 
 - Introduction
 - Object Literals
@@ -112,7 +112,7 @@
 - Private Properties and Methods
 - Getters and Setters
 
-## Prototypes
+## 3. Prototypes
 
 - Inheritance
 - Prototypes and Prototypical Inheritance
@@ -123,7 +123,7 @@
 - Iterating Instance and Prototype Members
 - Avoid Extending the Built-in Objects
 
-## Prototypical Inheritance
+## 4. Prototypical Inheritance
 
 - Creating Your Own Prototypical Inheritance
 - Resetting the Constructor
@@ -134,7 +134,7 @@
 - When to Use Inheritance
 - Mixins
 
-## ES6 Classes
+## 5. ES6 Classes
 
 - ES6 Classes
 - Hoisting
@@ -146,7 +146,7 @@
 - Inheritance
 - Method Overriding
 
-## ES6 Tooling
+## 6. ES6 Tooling
 
 - Modules
 - CommonJS Modules
